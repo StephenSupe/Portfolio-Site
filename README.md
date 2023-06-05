@@ -1,0 +1,1 @@
+to run the script: npm run dev
