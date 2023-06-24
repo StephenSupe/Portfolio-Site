@@ -1,5 +1,5 @@
 # Portfolio-Site
-Portfolio website built using Vite, Threejs/React-Fiber
+Portfolio website built using Vite, React, Threejs/React-Fiber
 
 to run development: npm run dev
 

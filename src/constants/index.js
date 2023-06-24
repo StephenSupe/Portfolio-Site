@@ -172,7 +172,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Steve proved me wrong.",
+        "uwu",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -180,7 +180,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Steve does.",
+        "uwu",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -188,7 +188,7 @@ import {
     },
     {
       testimonial:
-        "After Steve optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "uwu",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
